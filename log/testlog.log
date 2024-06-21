@@ -1,0 +1,1697 @@
+2024-06-11 20:52:01,586 - opencart framework -INFO - framework execution started
+2024-06-11 20:52:16,622 - opencart framework -INFO - Browser is launched and url
+2024-06-11 20:52:18,577 - opencart framework -INFO - navigated to account page
+2024-06-11 20:52:19,944 - opencart framework -INFO - navigated to desktop page
+2024-06-11 20:52:25,809 - opencart framework -INFO - browser closed
+2024-06-11 20:52:25,813 - opencart framework -INFO - framework execution stopped
+2024-06-11 20:53:19,473 - opencart framework -INFO - framework execution started
+2024-06-11 20:53:23,479 - opencart framework -INFO - Browser is launched and url
+2024-06-11 20:53:26,243 - opencart framework -INFO - browser closed
+2024-06-11 20:53:26,246 - opencart framework -INFO - framework execution stopped
+2024-06-11 22:29:34,283 - opencart framework -INFO - framework execution started
+2024-06-11 22:29:49,368 - opencart framework -INFO - Browser is launched and url
+2024-06-11 22:29:56,822 - opencart framework -INFO - browser closed
+2024-06-11 22:29:56,828 - opencart framework -INFO - framework execution stopped
+2024-06-11 22:37:42,639 - opencart framework -INFO - framework execution started
+2024-06-11 22:37:49,425 - opencart framework -INFO - Browser is launched and url
+2024-06-11 22:37:52,581 - opencart framework -INFO - browser closed
+2024-06-11 22:37:52,597 - opencart framework -INFO - framework execution stopped
+2024-06-11 22:39:55,491 - opencart framework -INFO - framework execution started
+2024-06-11 22:39:59,893 - opencart framework -INFO - Browser is launched and url
+2024-06-11 22:40:02,401 - opencart framework -INFO - browser closed
+2024-06-11 22:40:02,416 - opencart framework -INFO - framework execution stopped
+2024-06-11 22:43:00,449 - opencart framework -INFO - framework execution started
+2024-06-11 22:43:05,436 - opencart framework -INFO - Browser is launched and url
+2024-06-11 22:43:05,450 - opencart framework -INFO - Test case is started :-verifylogintestwithinvalidcredentials
+2024-06-11 22:43:07,713 - opencart framework -INFO - Test case is completed :-verifylogintestwithinvalidcredentials
+2024-06-11 22:43:07,939 - opencart framework -INFO - browser closed
+2024-06-11 22:43:11,329 - opencart framework -INFO - Browser is launched and url
+2024-06-11 22:43:11,331 - opencart framework -INFO - Test case is started :-verifylogintestwithvalidcredentials
+2024-06-11 22:43:13,006 - opencart framework -INFO - Test case is completed :-verifylogintestwithvalidcredentials
+2024-06-11 22:43:13,206 - opencart framework -INFO - browser closed
+2024-06-11 22:43:16,181 - opencart framework -INFO - Browser is launched and url
+2024-06-11 22:43:16,183 - opencart framework -INFO - Test case is started :-verifyregisteraccountwithexistingcredentialls
+2024-06-11 22:43:18,769 - opencart framework -INFO - Test case is completed :-verifyregisteraccountwithexistingcredentialls
+2024-06-11 22:43:18,986 - opencart framework -INFO - browser closed
+2024-06-11 22:43:21,784 - opencart framework -INFO - Browser is launched and url
+2024-06-11 22:43:21,787 - opencart framework -INFO - Test case is started :-verifyregisteraccountwithvalidcredentials
+2024-06-11 22:43:33,763 - opencart framework -INFO - Test case is failed :-verifyregisteraccountwithvalidcredentials
+2024-06-11 22:43:34,088 - opencart framework -INFO - browser closed
+2024-06-11 22:43:37,930 - opencart framework -INFO - Browser is launched and url
+2024-06-11 22:43:37,938 - opencart framework -INFO - Test case is started :-verifyregisterpasswordandconfirmpassword
+2024-06-11 22:43:40,068 - opencart framework -INFO - Test case is completed :-verifyregisterpasswordandconfirmpassword
+2024-06-11 22:43:40,250 - opencart framework -INFO - browser closed
+2024-06-11 22:43:44,266 - opencart framework -INFO - Browser is launched and url
+2024-06-11 22:43:44,269 - opencart framework -INFO - Test case is started :-verifyregisterpasswordandconfirmpasswordwithsubscribeoption
+2024-06-11 22:43:46,476 - opencart framework -INFO - Test case is completed :-verifyregisterpasswordandconfirmpasswordwithsubscribeoption
+2024-06-11 22:43:46,660 - opencart framework -INFO - browser closed
+2024-06-11 22:43:50,525 - opencart framework -INFO - Browser is launched and url
+2024-06-11 22:43:50,527 - opencart framework -INFO - Test case is started :-verifymacbookcheckouttestcase
+2024-06-11 22:43:52,918 - opencart framework -INFO - Test case is completed :-verifymacbookcheckouttestcase
+2024-06-11 22:43:53,105 - opencart framework -INFO - browser closed
+2024-06-11 22:43:56,531 - opencart framework -INFO - Browser is launched and url
+2024-06-11 22:43:56,534 - opencart framework -INFO - Test case is started :-verifylogouttest
+2024-06-11 22:43:59,353 - opencart framework -INFO - Test case is completed :-verifylogouttest
+2024-06-11 22:43:59,551 - opencart framework -INFO - browser closed
+2024-06-11 22:44:02,939 - opencart framework -INFO - Browser is launched and url
+2024-06-11 22:44:02,942 - opencart framework -INFO - Test case is started :-verifylogouttestwithlogoutoptionfromright
+2024-06-11 22:44:10,362 - opencart framework -INFO - Test case is completed :-verifylogouttestwithlogoutoptionfromright
+2024-06-11 22:44:10,564 - opencart framework -INFO - browser closed
+2024-06-11 22:44:10,566 - opencart framework -INFO - framework execution stopped
+2024-06-12 12:05:26,186 - opencart framework -INFO - framework execution started
+2024-06-12 12:05:34,973 - opencart framework -INFO - Browser is launched and url
+2024-06-12 12:05:37,977 - opencart framework -INFO - browser closed
+2024-06-12 12:05:37,982 - opencart framework -INFO - framework execution stopped
+2024-06-12 14:29:49,242 - opencart framework -INFO - framework execution started
+2024-06-12 14:30:01,069 - opencart framework -INFO - Browser is launched and url
+2024-06-12 14:30:12,624 - opencart framework -INFO - browser closed
+2024-06-12 14:30:12,629 - opencart framework -INFO - framework execution stopped
+2024-06-12 17:49:07,427 - opencart framework -INFO - framework execution started
+2024-06-12 17:49:10,312 - opencart framework -INFO - framework execution stopped
+2024-06-12 17:49:51,891 - opencart framework -INFO - framework execution started
+2024-06-12 17:49:57,824 - opencart framework -INFO - Browser is launched and url
+2024-06-12 17:50:10,025 - opencart framework -INFO - browser closed
+2024-06-12 17:50:10,030 - opencart framework -INFO - framework execution stopped
+2024-06-12 17:58:38,192 - opencart framework -INFO - framework execution started
+2024-06-12 17:58:47,638 - opencart framework -INFO - Browser is launched and url
+2024-06-12 17:59:01,461 - opencart framework -INFO - browser closed
+2024-06-12 17:59:01,461 - opencart framework -INFO - framework execution stopped
+2024-06-12 18:00:57,233 - opencart framework -INFO - framework execution started
+2024-06-12 18:01:00,117 - opencart framework -INFO - Browser is launched and url
+2024-06-12 18:01:15,578 - opencart framework -INFO - browser closed
+2024-06-12 18:01:15,578 - opencart framework -INFO - framework execution stopped
+2024-06-12 18:03:26,440 - opencart framework -INFO - framework execution started
+2024-06-12 18:03:33,253 - opencart framework -INFO - Browser is launched and url
+2024-06-12 18:03:47,416 - opencart framework -INFO - browser closed
+2024-06-12 18:03:47,416 - opencart framework -INFO - framework execution stopped
+2024-06-12 18:06:55,337 - opencart framework -INFO - framework execution started
+2024-06-12 18:07:06,426 - opencart framework -INFO - Browser is launched and url
+2024-06-12 18:07:17,066 - opencart framework -INFO - Success: Your account has been successfully updated.
+2024-06-12 18:07:22,292 - opencart framework -INFO - browser closed
+2024-06-12 18:07:22,292 - opencart framework -INFO - framework execution stopped
+2024-06-12 18:07:56,701 - opencart framework -INFO - framework execution started
+2024-06-12 18:08:03,234 - opencart framework -INFO - Browser is launched and url
+2024-06-12 18:08:12,097 - opencart framework -INFO - Success: Your account has been successfully updated.
+2024-06-12 18:08:17,316 - opencart framework -INFO - browser closed
+2024-06-12 18:08:17,316 - opencart framework -INFO - framework execution stopped
+2024-06-12 18:13:22,759 - opencart framework -INFO - framework execution started
+2024-06-12 18:13:26,082 - opencart framework -INFO - Browser is launched and url
+2024-06-12 18:13:28,763 - opencart framework -INFO - browser closed
+2024-06-12 18:13:28,767 - opencart framework -INFO - framework execution stopped
+2024-06-12 18:14:33,446 - opencart framework -INFO - framework execution started
+2024-06-12 18:14:40,161 - opencart framework -INFO - Browser is launched and url
+2024-06-12 18:14:43,904 - opencart framework -INFO - Success: You have added iMac to your wish list!
+×
+2024-06-12 18:14:44,119 - opencart framework -INFO - browser closed
+2024-06-12 18:14:44,123 - opencart framework -INFO - framework execution stopped
+2024-06-12 18:18:25,255 - opencart framework -INFO - framework execution started
+2024-06-12 18:18:31,044 - opencart framework -INFO - Browser is launched and url
+2024-06-12 18:18:34,406 - opencart framework -INFO - Success: You have added iMac to your wish list!
+×
+2024-06-12 18:18:34,617 - opencart framework -INFO - browser closed
+2024-06-12 18:18:34,621 - opencart framework -INFO - framework execution stopped
+2024-06-12 18:20:32,204 - opencart framework -INFO - framework execution started
+2024-06-12 18:20:36,066 - opencart framework -INFO - Browser is launched and url
+2024-06-12 18:20:38,314 - opencart framework -INFO - Search - IMac
+Search Criteria
+            All Categories
+                                    Desktops
+                                                      PC
+                                                                  Mac
+                                                                        Laptops & Notebooks
+                                                      Macs
+                                                                  Windows
+                                                                        Components
+                                                      Mice and Trackballs
+                                                                  Monitors
+                                                            test 1
+                                                            test 2
+                                                                  Printers
+                                                                  Scanners
+                                                                  Web Cameras
+                                                                        Tablets
+                                                            Software
+                                                            Phones & PDAs
+                                                            Cameras
+                                                            MP3 Players
+                                                      test 11
+                                                                  test 12
+                                                                  test 15
+                                                                  test 16
+                                                                  test 17
+                                                                  test 18
+                                                                  test 19
+                                                                  test 20
+                                                            test 25
+                                                                  test 21
+                                                                  test 22
+                                                                  test 23
+                                                                  test 24
+                                                                  test 4
+                                                                  test 5
+                                                                  test 6
+                                                                  test 7
+                                                                  test 8
+                                                                  test 9
+                                                           Search in subcategories
+Search in product descriptions
+Products meeting the search criteria
+Product Compare (0)
+Sort By:
+                                          Default
+                                                        Name (A - Z)
+                                                        Name (Z - A)
+                                                        Price (Low > High)
+                                                        Price (High > Low)
+                                                        Rating (Highest)
+                                                        Rating (Lowest)
+                                                        Model (A - Z)
+                                                        Model (Z - A)
+                                         Show:
+                                          20
+                                                        25
+                                                        50
+                                                        75
+                                                        100
+                                         iMac
+Just when you thought iMac had everything, now there´s even more. More powerful Intel Core 2 Duo pro..
+$122.00
+Ex Tax: $100.00
+ADD TO CART
+Showing 1 to 1 of 1 (1 Pages)
+2024-06-12 18:20:38,553 - opencart framework -INFO - browser closed
+2024-06-12 18:20:38,557 - opencart framework -INFO - framework execution stopped
+2024-06-12 18:21:42,703 - opencart framework -INFO - framework execution started
+2024-06-12 18:21:46,182 - opencart framework -INFO - Browser is launched and url
+2024-06-12 18:21:48,326 - opencart framework -INFO - Search - IMac
+Search Criteria
+            All Categories
+                                    Desktops
+                                                      PC
+                                                                  Mac
+                                                                        Laptops & Notebooks
+                                                      Macs
+                                                                  Windows
+                                                                        Components
+                                                      Mice and Trackballs
+                                                                  Monitors
+                                                            test 1
+                                                            test 2
+                                                                  Printers
+                                                                  Scanners
+                                                                  Web Cameras
+                                                                        Tablets
+                                                            Software
+                                                            Phones & PDAs
+                                                            Cameras
+                                                            MP3 Players
+                                                      test 11
+                                                                  test 12
+                                                                  test 15
+                                                                  test 16
+                                                                  test 17
+                                                                  test 18
+                                                                  test 19
+                                                                  test 20
+                                                            test 25
+                                                                  test 21
+                                                                  test 22
+                                                                  test 23
+                                                                  test 24
+                                                                  test 4
+                                                                  test 5
+                                                                  test 6
+                                                                  test 7
+                                                                  test 8
+                                                                  test 9
+                                                           Search in subcategories
+Search in product descriptions
+Products meeting the search criteria
+Product Compare (0)
+Sort By:
+                                          Default
+                                                        Name (A - Z)
+                                                        Name (Z - A)
+                                                        Price (Low > High)
+                                                        Price (High > Low)
+                                                        Rating (Highest)
+                                                        Rating (Lowest)
+                                                        Model (A - Z)
+                                                        Model (Z - A)
+                                         Show:
+                                          20
+                                                        25
+                                                        50
+                                                        75
+                                                        100
+                                         iMac
+Just when you thought iMac had everything, now there´s even more. More powerful Intel Core 2 Duo pro..
+$122.00
+Ex Tax: $100.00
+ADD TO CART
+Showing 1 to 1 of 1 (1 Pages)
+2024-06-12 18:21:48,575 - opencart framework -INFO - browser closed
+2024-06-12 18:21:48,581 - opencart framework -INFO - framework execution stopped
+2024-06-12 18:28:30,162 - opencart framework -INFO - framework execution started
+2024-06-12 18:28:35,015 - opencart framework -INFO - Browser is launched and url
+2024-06-12 18:28:37,925 - opencart framework -INFO - Search - IMac
+Search Criteria
+            All Categories
+                                    Desktops
+                                                      PC
+                                                                  Mac
+                                                                        Laptops & Notebooks
+                                                      Macs
+                                                                  Windows
+                                                                        Components
+                                                      Mice and Trackballs
+                                                                  Monitors
+                                                            test 1
+                                                            test 2
+                                                                  Printers
+                                                                  Scanners
+                                                                  Web Cameras
+                                                                        Tablets
+                                                            Software
+                                                            Phones & PDAs
+                                                            Cameras
+                                                            MP3 Players
+                                                      test 11
+                                                                  test 12
+                                                                  test 15
+                                                                  test 16
+                                                                  test 17
+                                                                  test 18
+                                                                  test 19
+                                                                  test 20
+                                                            test 25
+                                                                  test 21
+                                                                  test 22
+                                                                  test 23
+                                                                  test 24
+                                                                  test 4
+                                                                  test 5
+                                                                  test 6
+                                                                  test 7
+                                                                  test 8
+                                                                  test 9
+                                                           Search in subcategories
+Search in product descriptions
+Products meeting the search criteria
+Product Compare (0)
+Sort By:
+                                          Default
+                                                        Name (A - Z)
+                                                        Name (Z - A)
+                                                        Price (Low > High)
+                                                        Price (High > Low)
+                                                        Rating (Highest)
+                                                        Rating (Lowest)
+                                                        Model (A - Z)
+                                                        Model (Z - A)
+                                         Show:
+                                          20
+                                                        25
+                                                        50
+                                                        75
+                                                        100
+                                         iMac
+Just when you thought iMac had everything, now there´s even more. More powerful Intel Core 2 Duo pro..
+$122.00
+Ex Tax: $100.00
+ADD TO CART
+Showing 1 to 1 of 1 (1 Pages)
+2024-06-12 18:28:38,145 - opencart framework -INFO - browser closed
+2024-06-12 18:28:38,149 - opencart framework -INFO - framework execution stopped
+2024-06-12 18:33:18,399 - opencart framework -INFO - framework execution started
+2024-06-12 18:33:23,003 - opencart framework -INFO - Browser is launched and url
+2024-06-12 18:33:32,002 - opencart framework -INFO - Success: You have added iMac to your wish list!
+×
+2024-06-12 18:33:32,233 - opencart framework -INFO - browser closed
+2024-06-12 18:33:32,240 - opencart framework -INFO - framework execution stopped
+2024-06-12 18:35:30,540 - opencart framework -INFO - framework execution started
+2024-06-12 18:35:39,194 - opencart framework -INFO - Browser is launched and url
+2024-06-12 18:35:46,853 - opencart framework -INFO - Success: You have added iMac to your wish list!
+×
+2024-06-12 18:35:47,072 - opencart framework -INFO - browser closed
+2024-06-12 18:35:47,076 - opencart framework -INFO - framework execution stopped
+2024-06-12 18:37:52,974 - opencart framework -INFO - framework execution started
+2024-06-12 18:38:03,403 - opencart framework -INFO - Browser is launched and url
+2024-06-12 18:38:11,006 - opencart framework -INFO - Success: You have added iMac to your wish list!
+×
+2024-06-12 18:38:11,223 - opencart framework -INFO - browser closed
+2024-06-12 18:38:11,227 - opencart framework -INFO - framework execution stopped
+2024-06-12 18:41:03,587 - opencart framework -INFO - framework execution started
+2024-06-12 18:41:07,479 - opencart framework -INFO - Browser is launched and url
+2024-06-12 18:41:15,062 - opencart framework -INFO - Success: You have added iMac to your wish list!
+×
+2024-06-12 18:41:15,289 - opencart framework -INFO - browser closed
+2024-06-12 18:41:15,293 - opencart framework -INFO - framework execution stopped
+2024-06-12 18:42:25,436 - opencart framework -INFO - framework execution started
+2024-06-12 18:42:33,827 - opencart framework -INFO - Browser is launched and url
+2024-06-12 18:42:41,158 - opencart framework -INFO - Success: You have added iMac to your wish list!
+×
+2024-06-12 18:42:41,383 - opencart framework -INFO - browser closed
+2024-06-12 18:42:41,388 - opencart framework -INFO - framework execution stopped
+2024-06-12 18:43:43,316 - opencart framework -INFO - framework execution started
+2024-06-12 18:43:50,505 - opencart framework -INFO - Browser is launched and url
+2024-06-12 18:43:58,101 - opencart framework -INFO - Success: You have added iMac to your wish list!
+×
+2024-06-12 18:43:58,304 - opencart framework -INFO - browser closed
+2024-06-12 18:43:58,304 - opencart framework -INFO - framework execution stopped
+2024-06-13 12:43:16,787 - opencart framework -INFO - framework execution started
+2024-06-13 12:43:28,962 - opencart framework -INFO - Browser is launched and url
+2024-06-13 12:43:31,018 - opencart framework -INFO - browser closed
+2024-06-13 12:43:31,022 - opencart framework -INFO - framework execution stopped
+2024-06-13 12:44:52,644 - opencart framework -INFO - framework execution started
+2024-06-13 12:45:00,390 - opencart framework -INFO - Browser is launched and url
+2024-06-13 12:45:02,775 - opencart framework -INFO - browser closed
+2024-06-13 12:45:02,780 - opencart framework -INFO - framework execution stopped
+2024-06-13 12:51:10,343 - opencart framework -INFO - framework execution started
+2024-06-13 12:51:13,850 - opencart framework -INFO - Browser is launched and url
+2024-06-13 12:51:16,093 - opencart framework -INFO - browser closed
+2024-06-13 12:51:16,096 - opencart framework -INFO - framework execution stopped
+2024-06-13 12:53:39,133 - opencart framework -INFO - framework execution started
+2024-06-13 12:53:42,978 - opencart framework -INFO - Browser is launched and url
+2024-06-13 12:53:45,647 - opencart framework -INFO - browser closed
+2024-06-13 12:53:45,649 - opencart framework -INFO - framework execution stopped
+2024-06-13 12:57:26,136 - opencart framework -INFO - framework execution started
+2024-06-13 12:57:31,416 - opencart framework -INFO - Browser is launched and url
+2024-06-13 12:57:44,629 - opencart framework -INFO - browser closed
+2024-06-13 12:57:44,635 - opencart framework -INFO - framework execution stopped
+2024-06-13 13:07:46,498 - opencart framework -INFO - framework execution started
+2024-06-13 13:07:50,351 - opencart framework -INFO - Browser is launched and url
+2024-06-13 13:08:03,031 - opencart framework -INFO - browser closed
+2024-06-13 13:08:03,034 - opencart framework -INFO - framework execution stopped
+2024-06-13 13:11:00,897 - opencart framework -INFO - framework execution started
+2024-06-13 13:11:04,871 - opencart framework -INFO - Browser is launched and url
+2024-06-13 13:11:17,704 - opencart framework -INFO - browser closed
+2024-06-13 13:11:17,704 - opencart framework -INFO - framework execution stopped
+2024-06-13 13:18:27,694 - opencart framework -INFO - framework execution started
+2024-06-13 13:18:31,948 - opencart framework -INFO - Browser is launched and url
+2024-06-13 13:18:50,677 - opencart framework -INFO - browser closed
+2024-06-13 13:18:50,681 - opencart framework -INFO - framework execution stopped
+2024-06-13 13:19:09,114 - opencart framework -INFO - framework execution started
+2024-06-13 13:19:12,761 - opencart framework -INFO - Browser is launched and url
+2024-06-13 13:19:31,369 - opencart framework -INFO - browser closed
+2024-06-13 13:19:31,373 - opencart framework -INFO - framework execution stopped
+2024-06-13 13:19:51,955 - opencart framework -INFO - framework execution started
+2024-06-13 13:19:55,714 - opencart framework -INFO - Browser is launched and url
+2024-06-13 13:20:14,075 - opencart framework -INFO - browser closed
+2024-06-13 13:20:14,075 - opencart framework -INFO - framework execution stopped
+2024-06-13 13:21:45,956 - opencart framework -INFO - framework execution started
+2024-06-13 13:21:49,036 - opencart framework -INFO - Browser is launched and url
+2024-06-13 13:22:07,473 - opencart framework -INFO - browser closed
+2024-06-13 13:22:07,473 - opencart framework -INFO - framework execution stopped
+2024-06-13 13:24:22,685 - opencart framework -INFO - framework execution started
+2024-06-13 13:24:25,730 - opencart framework -INFO - Browser is launched and url
+2024-06-13 13:24:44,062 - opencart framework -INFO - browser closed
+2024-06-13 13:24:44,062 - opencart framework -INFO - framework execution stopped
+2024-06-13 13:26:47,856 - opencart framework -INFO - framework execution started
+2024-06-13 13:26:53,698 - opencart framework -INFO - Browser is launched and url
+2024-06-13 13:27:08,938 - opencart framework -INFO - browser closed
+2024-06-13 13:27:08,938 - opencart framework -INFO - framework execution stopped
+2024-06-13 13:31:12,772 - opencart framework -INFO - framework execution started
+2024-06-13 13:31:16,963 - opencart framework -INFO - Browser is launched and url
+2024-06-13 13:31:20,432 - opencart framework -INFO - Your Affiliate Information
+My Affiliate Account
+Company
+Web Site
+Payment Information
+Tax ID
+Payment Method
+Cheque
+PayPal
+Bank Transfer
+PayPal Email Account
+PayPal Email Address does not appear to be valid!
+My Account
+Edit Account
+Password
+Address Book
+Wish List
+Order History
+Downloads
+Recurring payments
+Reward Points
+Returns
+Transactions
+Newsletter
+Logout
+2024-06-13 13:31:20,650 - opencart framework -INFO - browser closed
+2024-06-13 13:31:20,654 - opencart framework -INFO - framework execution stopped
+2024-06-13 13:35:55,483 - opencart framework -INFO - framework execution started
+2024-06-13 13:35:58,713 - opencart framework -INFO - Browser is launched and url
+2024-06-13 13:36:12,749 - opencart framework -INFO - browser closed
+2024-06-13 13:36:12,750 - opencart framework -INFO - framework execution stopped
+2024-06-13 13:37:53,333 - opencart framework -INFO - framework execution started
+2024-06-13 13:37:56,323 - opencart framework -INFO - Browser is launched and url
+2024-06-13 13:38:09,783 - opencart framework -INFO - browser closed
+2024-06-13 13:38:09,783 - opencart framework -INFO - framework execution stopped
+2024-06-13 13:38:53,660 - opencart framework -INFO - framework execution started
+2024-06-13 13:38:56,594 - opencart framework -INFO - Browser is launched and url
+2024-06-13 13:39:14,721 - opencart framework -INFO - browser closed
+2024-06-13 13:39:14,725 - opencart framework -INFO - framework execution stopped
+2024-06-13 13:42:52,041 - opencart framework -INFO - framework execution started
+2024-06-13 13:42:55,505 - opencart framework -INFO - Browser is launched and url
+2024-06-13 13:43:03,855 - opencart framework -INFO - Success: Your account has been successfully updated.
+2024-06-13 13:43:09,057 - opencart framework -INFO - browser closed
+2024-06-13 13:43:09,060 - opencart framework -INFO - framework execution stopped
+2024-06-13 13:43:55,824 - opencart framework -INFO - framework execution started
+2024-06-13 13:44:00,047 - opencart framework -INFO - Browser is launched and url
+2024-06-13 13:44:18,392 - opencart framework -INFO - browser closed
+2024-06-13 13:44:18,396 - opencart framework -INFO - framework execution stopped
+2024-06-13 13:45:44,951 - opencart framework -INFO - framework execution started
+2024-06-13 13:45:48,078 - opencart framework -INFO - Browser is launched and url
+2024-06-13 13:45:51,052 - opencart framework -INFO - browser closed
+2024-06-13 13:45:51,057 - opencart framework -INFO - framework execution stopped
+2024-06-13 13:46:34,093 - opencart framework -INFO - framework execution started
+2024-06-13 13:46:37,225 - opencart framework -INFO - Browser is launched and url
+2024-06-13 13:46:40,239 - opencart framework -INFO - browser closed
+2024-06-13 13:46:40,243 - opencart framework -INFO - framework execution stopped
+2024-06-13 13:49:10,419 - opencart framework -INFO - framework execution started
+2024-06-13 13:49:13,478 - opencart framework -INFO - Browser is launched and url
+2024-06-13 13:49:16,791 - opencart framework -INFO - browser closed
+2024-06-13 13:49:16,791 - opencart framework -INFO - framework execution stopped
+2024-06-13 13:49:57,549 - opencart framework -INFO - framework execution started
+2024-06-13 13:50:00,921 - opencart framework -INFO - Browser is launched and url
+2024-06-13 13:50:09,313 - opencart framework -INFO - browser closed
+2024-06-13 13:50:09,317 - opencart framework -INFO - framework execution stopped
+2024-06-13 13:54:23,939 - opencart framework -INFO - framework execution started
+2024-06-13 13:54:27,049 - opencart framework -INFO - Browser is launched and url
+2024-06-13 13:54:45,254 - opencart framework -INFO - browser closed
+2024-06-13 13:54:45,258 - opencart framework -INFO - framework execution stopped
+2024-06-13 13:55:29,180 - opencart framework -INFO - framework execution started
+2024-06-13 13:55:32,354 - opencart framework -INFO - Browser is launched and url
+2024-06-13 13:55:55,847 - opencart framework -INFO - browser closed
+2024-06-13 13:55:55,851 - opencart framework -INFO - framework execution stopped
+2024-06-13 13:58:17,236 - opencart framework -INFO - framework execution started
+2024-06-13 13:58:20,416 - opencart framework -INFO - Browser is launched and url
+2024-06-13 13:58:44,008 - opencart framework -INFO - browser closed
+2024-06-13 13:58:44,012 - opencart framework -INFO - framework execution stopped
+2024-06-13 13:59:11,406 - opencart framework -INFO - framework execution started
+2024-06-13 13:59:14,307 - opencart framework -INFO - Browser is launched and url
+2024-06-13 13:59:27,698 - opencart framework -INFO - browser closed
+2024-06-13 13:59:27,698 - opencart framework -INFO - framework execution stopped
+2024-06-13 13:59:45,213 - opencart framework -INFO - framework execution started
+2024-06-13 13:59:48,205 - opencart framework -INFO - Browser is launched and url
+2024-06-13 14:00:01,789 - opencart framework -INFO - browser closed
+2024-06-13 14:00:01,789 - opencart framework -INFO - framework execution stopped
+2024-06-13 14:00:19,129 - opencart framework -INFO - framework execution started
+2024-06-13 14:00:22,026 - opencart framework -INFO - Browser is launched and url
+2024-06-13 14:00:35,652 - opencart framework -INFO - browser closed
+2024-06-13 14:00:35,652 - opencart framework -INFO - framework execution stopped
+2024-06-13 15:24:55,774 - opencart framework -INFO - framework execution started
+2024-06-13 15:25:00,827 - opencart framework -INFO - Browser is launched and url
+2024-06-13 15:25:12,870 - opencart framework -INFO - browser closed
+2024-06-13 15:25:12,874 - opencart framework -INFO - framework execution stopped
+2024-06-13 15:31:55,944 - opencart framework -INFO - framework execution started
+2024-06-13 15:31:58,963 - opencart framework -INFO - Browser is launched and url
+2024-06-13 15:32:01,281 - opencart framework -INFO - Search - iMac
+Search Criteria
+            All Categories
+                                    Desktops
+                                                      PC
+                                                                  Mac
+                                                                        Laptops & Notebooks
+                                                      Macs
+                                                                  Windows
+                                                                        Components
+                                                      Mice and Trackballs
+                                                                  Monitors
+                                                            test 1
+                                                            test 2
+                                                                  Printers
+                                                                  Scanners
+                                                                  Web Cameras
+                                                                        Tablets
+                                                            Software
+                                                            Phones & PDAs
+                                                            Cameras
+                                                            MP3 Players
+                                                      test 11
+                                                                  test 12
+                                                                  test 15
+                                                                  test 16
+                                                                  test 17
+                                                                  test 18
+                                                                  test 19
+                                                                  test 20
+                                                            test 25
+                                                                  test 21
+                                                                  test 22
+                                                                  test 23
+                                                                  test 24
+                                                                  test 4
+                                                                  test 5
+                                                                  test 6
+                                                                  test 7
+                                                                  test 8
+                                                                  test 9
+                                                           Search in subcategories
+Search in product descriptions
+Products meeting the search criteria
+Product Compare (0)
+Sort By:
+                                          Default
+                                                        Name (A - Z)
+                                                        Name (Z - A)
+                                                        Price (Low > High)
+                                                        Price (High > Low)
+                                                        Rating (Highest)
+                                                        Rating (Lowest)
+                                                        Model (A - Z)
+                                                        Model (Z - A)
+                                         Show:
+                                          20
+                                                        25
+                                                        50
+                                                        75
+                                                        100
+                                         iMac
+Just when you thought iMac had everything, now there´s even more. More powerful Intel Core 2 Duo pro..
+$122.00
+Ex Tax: $100.00
+ADD TO CART
+Showing 1 to 1 of 1 (1 Pages)
+2024-06-13 15:32:01,520 - opencart framework -INFO - browser closed
+2024-06-13 15:32:01,524 - opencart framework -INFO - framework execution stopped
+2024-06-13 15:32:51,773 - opencart framework -INFO - framework execution started
+2024-06-13 15:32:55,228 - opencart framework -INFO - Browser is launched and url
+2024-06-13 15:32:57,868 - opencart framework -INFO - Search - iMac
+Search Criteria
+            All Categories
+                                    Desktops
+                                                      PC
+                                                                  Mac
+                                                                        Laptops & Notebooks
+                                                      Macs
+                                                                  Windows
+                                                                        Components
+                                                      Mice and Trackballs
+                                                                  Monitors
+                                                            test 1
+                                                            test 2
+                                                                  Printers
+                                                                  Scanners
+                                                                  Web Cameras
+                                                                        Tablets
+                                                            Software
+                                                            Phones & PDAs
+                                                            Cameras
+                                                            MP3 Players
+                                                      test 11
+                                                                  test 12
+                                                                  test 15
+                                                                  test 16
+                                                                  test 17
+                                                                  test 18
+                                                                  test 19
+                                                                  test 20
+                                                            test 25
+                                                                  test 21
+                                                                  test 22
+                                                                  test 23
+                                                                  test 24
+                                                                  test 4
+                                                                  test 5
+                                                                  test 6
+                                                                  test 7
+                                                                  test 8
+                                                                  test 9
+                                                           Search in subcategories
+Search in product descriptions
+Products meeting the search criteria
+Product Compare (0)
+Sort By:
+                                          Default
+                                                        Name (A - Z)
+                                                        Name (Z - A)
+                                                        Price (Low > High)
+                                                        Price (High > Low)
+                                                        Rating (Highest)
+                                                        Rating (Lowest)
+                                                        Model (A - Z)
+                                                        Model (Z - A)
+                                         Show:
+                                          20
+                                                        25
+                                                        50
+                                                        75
+                                                        100
+                                         iMac
+Just when you thought iMac had everything, now there´s even more. More powerful Intel Core 2 Duo pro..
+$122.00
+Ex Tax: $100.00
+ADD TO CART
+Showing 1 to 1 of 1 (1 Pages)
+2024-06-13 15:32:58,077 - opencart framework -INFO - browser closed
+2024-06-13 15:32:58,080 - opencart framework -INFO - framework execution stopped
+2024-06-13 15:34:17,594 - opencart framework -INFO - framework execution started
+2024-06-13 15:34:21,323 - opencart framework -INFO - Browser is launched and url
+2024-06-13 15:34:23,661 - opencart framework -INFO - Search - iMac
+Search Criteria
+            All Categories
+                                    Desktops
+                                                      PC
+                                                                  Mac
+                                                                        Laptops & Notebooks
+                                                      Macs
+                                                                  Windows
+                                                                        Components
+                                                      Mice and Trackballs
+                                                                  Monitors
+                                                            test 1
+                                                            test 2
+                                                                  Printers
+                                                                  Scanners
+                                                                  Web Cameras
+                                                                        Tablets
+                                                            Software
+                                                            Phones & PDAs
+                                                            Cameras
+                                                            MP3 Players
+                                                      test 11
+                                                                  test 12
+                                                                  test 15
+                                                                  test 16
+                                                                  test 17
+                                                                  test 18
+                                                                  test 19
+                                                                  test 20
+                                                            test 25
+                                                                  test 21
+                                                                  test 22
+                                                                  test 23
+                                                                  test 24
+                                                                  test 4
+                                                                  test 5
+                                                                  test 6
+                                                                  test 7
+                                                                  test 8
+                                                                  test 9
+                                                           Search in subcategories
+Search in product descriptions
+Products meeting the search criteria
+Product Compare (0)
+Sort By:
+                                          Default
+                                                        Name (A - Z)
+                                                        Name (Z - A)
+                                                        Price (Low > High)
+                                                        Price (High > Low)
+                                                        Rating (Highest)
+                                                        Rating (Lowest)
+                                                        Model (A - Z)
+                                                        Model (Z - A)
+                                         Show:
+                                          20
+                                                        25
+                                                        50
+                                                        75
+                                                        100
+                                         iMac
+Just when you thought iMac had everything, now there´s even more. More powerful Intel Core 2 Duo pro..
+$122.00
+Ex Tax: $100.00
+ADD TO CART
+Showing 1 to 1 of 1 (1 Pages)
+2024-06-13 15:34:23,899 - opencart framework -INFO - browser closed
+2024-06-13 15:34:23,903 - opencart framework -INFO - framework execution stopped
+2024-06-13 15:35:04,561 - opencart framework -INFO - framework execution started
+2024-06-13 15:35:08,191 - opencart framework -INFO - Browser is launched and url
+2024-06-13 15:35:15,854 - opencart framework -INFO - Search - iMac
+Search Criteria
+            All Categories
+                                    Desktops
+                                                      PC
+                                                                  Mac
+                                                                        Laptops & Notebooks
+                                                      Macs
+                                                                  Windows
+                                                                        Components
+                                                      Mice and Trackballs
+                                                                  Monitors
+                                                            test 1
+                                                            test 2
+                                                                  Printers
+                                                                  Scanners
+                                                                  Web Cameras
+                                                                        Tablets
+                                                            Software
+                                                            Phones & PDAs
+                                                            Cameras
+                                                            MP3 Players
+                                                      test 11
+                                                                  test 12
+                                                                  test 15
+                                                                  test 16
+                                                                  test 17
+                                                                  test 18
+                                                                  test 19
+                                                                  test 20
+                                                            test 25
+                                                                  test 21
+                                                                  test 22
+                                                                  test 23
+                                                                  test 24
+                                                                  test 4
+                                                                  test 5
+                                                                  test 6
+                                                                  test 7
+                                                                  test 8
+                                                                  test 9
+                                                           Search in subcategories
+Search in product descriptions
+Products meeting the search criteria
+Product Compare (0)
+Sort By:
+                                          Default
+                                                        Name (A - Z)
+                                                        Name (Z - A)
+                                                        Price (Low > High)
+                                                        Price (High > Low)
+                                                        Rating (Highest)
+                                                        Rating (Lowest)
+                                                        Model (A - Z)
+                                                        Model (Z - A)
+                                         Show:
+                                          20
+                                                        25
+                                                        50
+                                                        75
+                                                        100
+                                         iMac
+Just when you thought iMac had everything, now there´s even more. More powerful Intel Core 2 Duo pro..
+$122.00
+Ex Tax: $100.00
+ADD TO CART
+Showing 1 to 1 of 1 (1 Pages)
+2024-06-13 15:35:16,088 - opencart framework -INFO - browser closed
+2024-06-13 15:35:16,088 - opencart framework -INFO - framework execution stopped
+2024-06-13 15:37:18,586 - opencart framework -INFO - framework execution started
+2024-06-13 15:37:21,566 - opencart framework -INFO - Browser is launched and url
+2024-06-13 15:37:29,461 - opencart framework -INFO - Search - iMac
+Search Criteria
+            All Categories
+                                    Desktops
+                                                      PC
+                                                                  Mac
+                                                                        Laptops & Notebooks
+                                                      Macs
+                                                                  Windows
+                                                                        Components
+                                                      Mice and Trackballs
+                                                                  Monitors
+                                                            test 1
+                                                            test 2
+                                                                  Printers
+                                                                  Scanners
+                                                                  Web Cameras
+                                                                        Tablets
+                                                            Software
+                                                            Phones & PDAs
+                                                            Cameras
+                                                            MP3 Players
+                                                      test 11
+                                                                  test 12
+                                                                  test 15
+                                                                  test 16
+                                                                  test 17
+                                                                  test 18
+                                                                  test 19
+                                                                  test 20
+                                                            test 25
+                                                                  test 21
+                                                                  test 22
+                                                                  test 23
+                                                                  test 24
+                                                                  test 4
+                                                                  test 5
+                                                                  test 6
+                                                                  test 7
+                                                                  test 8
+                                                                  test 9
+                                                           Search in subcategories
+Search in product descriptions
+Products meeting the search criteria
+Product Compare (0)
+Sort By:
+                                          Default
+                                                        Name (A - Z)
+                                                        Name (Z - A)
+                                                        Price (Low > High)
+                                                        Price (High > Low)
+                                                        Rating (Highest)
+                                                        Rating (Lowest)
+                                                        Model (A - Z)
+                                                        Model (Z - A)
+                                         Show:
+                                          20
+                                                        25
+                                                        50
+                                                        75
+                                                        100
+                                         iMac
+Just when you thought iMac had everything, now there´s even more. More powerful Intel Core 2 Duo pro..
+$122.00
+Ex Tax: $100.00
+ADD TO CART
+Showing 1 to 1 of 1 (1 Pages)
+2024-06-13 15:37:29,697 - opencart framework -INFO - browser closed
+2024-06-13 15:37:29,702 - opencart framework -INFO - framework execution stopped
+2024-06-13 15:37:52,976 - opencart framework -INFO - framework execution started
+2024-06-13 15:37:56,052 - opencart framework -INFO - Browser is launched and url
+2024-06-13 15:38:03,580 - opencart framework -INFO - Search - iMac
+Search Criteria
+            All Categories
+                                    Desktops
+                                                      PC
+                                                                  Mac
+                                                                        Laptops & Notebooks
+                                                      Macs
+                                                                  Windows
+                                                                        Components
+                                                      Mice and Trackballs
+                                                                  Monitors
+                                                            test 1
+                                                            test 2
+                                                                  Printers
+                                                                  Scanners
+                                                                  Web Cameras
+                                                                        Tablets
+                                                            Software
+                                                            Phones & PDAs
+                                                            Cameras
+                                                            MP3 Players
+                                                      test 11
+                                                                  test 12
+                                                                  test 15
+                                                                  test 16
+                                                                  test 17
+                                                                  test 18
+                                                                  test 19
+                                                                  test 20
+                                                            test 25
+                                                                  test 21
+                                                                  test 22
+                                                                  test 23
+                                                                  test 24
+                                                                  test 4
+                                                                  test 5
+                                                                  test 6
+                                                                  test 7
+                                                                  test 8
+                                                                  test 9
+                                                           Search in subcategories
+Search in product descriptions
+Products meeting the search criteria
+Product Compare (0)
+Sort By:
+                                          Default
+                                                        Name (A - Z)
+                                                        Name (Z - A)
+                                                        Price (Low > High)
+                                                        Price (High > Low)
+                                                        Rating (Highest)
+                                                        Rating (Lowest)
+                                                        Model (A - Z)
+                                                        Model (Z - A)
+                                         Show:
+                                          20
+                                                        25
+                                                        50
+                                                        75
+                                                        100
+                                         iMac
+Just when you thought iMac had everything, now there´s even more. More powerful Intel Core 2 Duo pro..
+$122.00
+Ex Tax: $100.00
+ADD TO CART
+Showing 1 to 1 of 1 (1 Pages)
+2024-06-13 15:38:03,803 - opencart framework -INFO - browser closed
+2024-06-13 15:38:03,806 - opencart framework -INFO - framework execution stopped
+2024-06-13 15:39:25,883 - opencart framework -INFO - framework execution started
+2024-06-13 15:39:29,161 - opencart framework -INFO - Browser is launched and url
+2024-06-13 15:39:31,999 - opencart framework -INFO - Search - iMac
+Search Criteria
+            All Categories
+                                    Desktops
+                                                      PC
+                                                                  Mac
+                                                                        Laptops & Notebooks
+                                                      Macs
+                                                                  Windows
+                                                                        Components
+                                                      Mice and Trackballs
+                                                                  Monitors
+                                                            test 1
+                                                            test 2
+                                                                  Printers
+                                                                  Scanners
+                                                                  Web Cameras
+                                                                        Tablets
+                                                            Software
+                                                            Phones & PDAs
+                                                            Cameras
+                                                            MP3 Players
+                                                      test 11
+                                                                  test 12
+                                                                  test 15
+                                                                  test 16
+                                                                  test 17
+                                                                  test 18
+                                                                  test 19
+                                                                  test 20
+                                                            test 25
+                                                                  test 21
+                                                                  test 22
+                                                                  test 23
+                                                                  test 24
+                                                                  test 4
+                                                                  test 5
+                                                                  test 6
+                                                                  test 7
+                                                                  test 8
+                                                                  test 9
+                                                           Search in subcategories
+Search in product descriptions
+Products meeting the search criteria
+Product Compare (0)
+Sort By:
+                                          Default
+                                                        Name (A - Z)
+                                                        Name (Z - A)
+                                                        Price (Low > High)
+                                                        Price (High > Low)
+                                                        Rating (Highest)
+                                                        Rating (Lowest)
+                                                        Model (A - Z)
+                                                        Model (Z - A)
+                                         Show:
+                                          20
+                                                        25
+                                                        50
+                                                        75
+                                                        100
+                                         iMac
+Just when you thought iMac had everything, now there´s even more. More powerful Intel Core 2 Duo pro..
+$122.00
+Ex Tax: $100.00
+ADD TO CART
+Showing 1 to 1 of 1 (1 Pages)
+2024-06-13 15:39:32,231 - opencart framework -INFO - browser closed
+2024-06-13 15:39:32,235 - opencart framework -INFO - framework execution stopped
+2024-06-13 15:40:48,838 - opencart framework -INFO - framework execution started
+2024-06-13 15:40:51,973 - opencart framework -INFO - Browser is launched and url
+2024-06-13 15:40:54,239 - opencart framework -INFO - Search - iMac
+Search Criteria
+            All Categories
+                                    Desktops
+                                                      PC
+                                                                  Mac
+                                                                        Laptops & Notebooks
+                                                      Macs
+                                                                  Windows
+                                                                        Components
+                                                      Mice and Trackballs
+                                                                  Monitors
+                                                            test 1
+                                                            test 2
+                                                                  Printers
+                                                                  Scanners
+                                                                  Web Cameras
+                                                                        Tablets
+                                                            Software
+                                                            Phones & PDAs
+                                                            Cameras
+                                                            MP3 Players
+                                                      test 11
+                                                                  test 12
+                                                                  test 15
+                                                                  test 16
+                                                                  test 17
+                                                                  test 18
+                                                                  test 19
+                                                                  test 20
+                                                            test 25
+                                                                  test 21
+                                                                  test 22
+                                                                  test 23
+                                                                  test 24
+                                                                  test 4
+                                                                  test 5
+                                                                  test 6
+                                                                  test 7
+                                                                  test 8
+                                                                  test 9
+                                                           Search in subcategories
+Search in product descriptions
+Products meeting the search criteria
+Product Compare (0)
+Sort By:
+                                          Default
+                                                        Name (A - Z)
+                                                        Name (Z - A)
+                                                        Price (Low > High)
+                                                        Price (High > Low)
+                                                        Rating (Highest)
+                                                        Rating (Lowest)
+                                                        Model (A - Z)
+                                                        Model (Z - A)
+                                         Show:
+                                          20
+                                                        25
+                                                        50
+                                                        75
+                                                        100
+                                         iMac
+Just when you thought iMac had everything, now there´s even more. More powerful Intel Core 2 Duo pro..
+$122.00
+Ex Tax: $100.00
+ADD TO CART
+Showing 1 to 1 of 1 (1 Pages)
+2024-06-13 15:40:54,472 - opencart framework -INFO - browser closed
+2024-06-13 15:40:54,476 - opencart framework -INFO - framework execution stopped
+2024-06-13 15:41:53,629 - opencart framework -INFO - framework execution started
+2024-06-13 15:41:56,427 - opencart framework -INFO - Browser is launched and url
+2024-06-13 15:41:58,726 - opencart framework -INFO - browser closed
+2024-06-13 15:41:58,730 - opencart framework -INFO - framework execution stopped
+2024-06-13 15:43:01,927 - opencart framework -INFO - framework execution started
+2024-06-13 15:43:04,818 - opencart framework -INFO - Browser is launched and url
+2024-06-13 15:43:12,240 - opencart framework -INFO - browser closed
+2024-06-13 15:43:12,245 - opencart framework -INFO - framework execution stopped
+2024-06-13 15:43:40,954 - opencart framework -INFO - framework execution started
+2024-06-13 15:43:43,771 - opencart framework -INFO - Browser is launched and url
+2024-06-13 15:43:50,886 - opencart framework -INFO - Success: You have added iMac to your shopping cart!
+×
+2024-06-13 15:43:51,078 - opencart framework -INFO - browser closed
+2024-06-13 15:43:51,082 - opencart framework -INFO - framework execution stopped
+2024-06-13 15:44:47,234 - opencart framework -INFO - framework execution started
+2024-06-13 15:44:50,727 - opencart framework -INFO - Browser is launched and url
+2024-06-13 15:44:57,934 - opencart framework -INFO - Success: You have added iMac to your shopping cart!
+×
+2024-06-13 15:44:58,163 - opencart framework -INFO - browser closed
+2024-06-13 15:44:58,163 - opencart framework -INFO - framework execution stopped
+2024-06-13 15:46:24,393 - opencart framework -INFO - framework execution started
+2024-06-13 15:46:27,978 - opencart framework -INFO - Browser is launched and url
+2024-06-13 15:46:35,128 - opencart framework -INFO - Success: You have added iMac to your shopping cart!
+×
+2024-06-13 15:46:35,367 - opencart framework -INFO - browser closed
+2024-06-13 15:46:35,367 - opencart framework -INFO - framework execution stopped
+2024-06-13 16:03:56,442 - opencart framework -INFO - framework execution started
+2024-06-13 16:04:00,647 - opencart framework -INFO - Browser is launched and url
+2024-06-13 16:04:10,297 - opencart framework -INFO - browser closed
+2024-06-13 16:04:10,300 - opencart framework -INFO - framework execution stopped
+2024-06-13 16:11:49,341 - opencart framework -INFO - framework execution started
+2024-06-13 16:11:53,403 - opencart framework -INFO - Browser is launched and url
+2024-06-13 16:12:01,295 - opencart framework -INFO - browser closed
+2024-06-13 16:12:01,295 - opencart framework -INFO - framework execution stopped
+2024-06-17 21:42:01,515 - opencart framework -INFO - framework execution started
+2024-06-17 21:42:10,296 - opencart framework -INFO - Browser is launched and url
+2024-06-17 21:42:10,307 - opencart framework -INFO - Test case is started :-verifylogintestwithinvalidcredentials
+2024-06-17 21:42:11,438 - opencart framework -INFO - Test case is completed :-verifylogintestwithinvalidcredentials
+2024-06-17 21:42:11,643 - opencart framework -INFO - browser closed
+2024-06-17 21:42:14,663 - opencart framework -INFO - Browser is launched and url
+2024-06-17 21:42:14,667 - opencart framework -INFO - Test case is started :-verifylogintestwithvalidcredentials
+2024-06-17 21:42:16,269 - opencart framework -INFO - Test case is completed :-verifylogintestwithvalidcredentials
+2024-06-17 21:42:16,461 - opencart framework -INFO - browser closed
+2024-06-17 21:42:20,350 - opencart framework -INFO - Browser is launched and url
+2024-06-17 21:42:20,353 - opencart framework -INFO - Test case is started :-verifyregisteraccountwithexistingcredentialls
+2024-06-17 21:42:22,750 - opencart framework -INFO - Test case is completed :-verifyregisteraccountwithexistingcredentialls
+2024-06-17 21:42:22,934 - opencart framework -INFO - browser closed
+2024-06-17 21:42:26,147 - opencart framework -INFO - Browser is launched and url
+2024-06-17 21:42:26,151 - opencart framework -INFO - Test case is started :-verifyregisteraccountwithvalidcredentials
+2024-06-17 21:42:38,358 - opencart framework -INFO - Test case is failed :-verifyregisteraccountwithvalidcredentials
+2024-06-17 21:42:38,675 - opencart framework -INFO - browser closed
+2024-06-17 21:42:41,800 - opencart framework -INFO - Browser is launched and url
+2024-06-17 21:42:41,800 - opencart framework -INFO - Test case is started :-verifyregisterpasswordandconfirmpassword
+2024-06-17 21:42:43,959 - opencart framework -INFO - Test case is completed :-verifyregisterpasswordandconfirmpassword
+2024-06-17 21:42:44,148 - opencart framework -INFO - browser closed
+2024-06-17 21:42:46,924 - opencart framework -INFO - Browser is launched and url
+2024-06-17 21:42:46,930 - opencart framework -INFO - Test case is started :-verifyregisterpasswordandconfirmpasswordwithsubscribeoption
+2024-06-17 21:42:48,925 - opencart framework -INFO - Test case is completed :-verifyregisterpasswordandconfirmpasswordwithsubscribeoption
+2024-06-17 21:42:49,098 - opencart framework -INFO - browser closed
+2024-06-17 21:42:52,125 - opencart framework -INFO - Browser is launched and url
+2024-06-17 21:42:52,127 - opencart framework -INFO - Test case is started :-verifymacbookcheckouttestcase
+2024-06-17 21:42:54,048 - opencart framework -INFO - Test case is completed :-verifymacbookcheckouttestcase
+2024-06-17 21:42:54,222 - opencart framework -INFO - browser closed
+2024-06-17 21:42:56,955 - opencart framework -INFO - Browser is launched and url
+2024-06-17 21:42:56,957 - opencart framework -INFO - Test case is started :-verifylogouttest
+2024-06-17 21:42:59,208 - opencart framework -INFO - Test case is completed :-verifylogouttest
+2024-06-17 21:42:59,389 - opencart framework -INFO - browser closed
+2024-06-17 21:43:02,363 - opencart framework -INFO - Browser is launched and url
+2024-06-17 21:43:02,366 - opencart framework -INFO - Test case is started :-verifylogouttestwithlogoutoptionfromright
+2024-06-17 21:43:09,934 - opencart framework -INFO - Test case is completed :-verifylogouttestwithlogoutoptionfromright
+2024-06-17 21:43:10,109 - opencart framework -INFO - browser closed
+2024-06-17 21:43:10,112 - opencart framework -INFO - framework execution stopped
+2024-06-17 21:57:24,562 - opencart framework -INFO - framework execution started
+2024-06-17 21:57:28,517 - opencart framework -INFO - Browser is launched and url
+2024-06-17 21:57:36,278 - opencart framework -INFO - browser closed
+2024-06-17 21:57:38,917 - opencart framework -INFO - Browser is launched and url
+2024-06-17 21:57:47,045 - opencart framework -INFO - Success: Your account has been successfully updated.
+2024-06-17 21:57:52,254 - opencart framework -INFO - browser closed
+2024-06-17 21:57:55,006 - opencart framework -INFO - Browser is launched and url
+2024-06-17 21:58:07,962 - opencart framework -INFO - browser closed
+2024-06-17 21:58:10,551 - opencart framework -INFO - Browser is launched and url
+2024-06-17 21:58:13,140 - opencart framework -INFO - browser closed
+2024-06-17 21:58:15,669 - opencart framework -INFO - Browser is launched and url
+2024-06-17 21:58:16,889 - opencart framework -INFO - browser closed
+2024-06-17 21:58:19,141 - opencart framework -INFO - Browser is launched and url
+2024-06-17 21:58:20,771 - opencart framework -INFO - browser closed
+2024-06-17 21:58:23,434 - opencart framework -INFO - Browser is launched and url
+2024-06-17 21:58:25,784 - opencart framework -INFO - browser closed
+2024-06-17 21:58:28,646 - opencart framework -INFO - Browser is launched and url
+2024-06-17 21:58:36,616 - opencart framework -INFO - browser closed
+2024-06-17 21:58:38,938 - opencart framework -INFO - Browser is launched and url
+2024-06-17 21:58:41,291 - opencart framework -INFO - browser closed
+2024-06-17 21:58:43,672 - opencart framework -INFO - Browser is launched and url
+2024-06-17 21:58:55,801 - opencart framework -INFO - browser closed
+2024-06-17 21:58:58,390 - opencart framework -INFO - Browser is launched and url
+2024-06-17 21:59:00,451 - opencart framework -INFO - browser closed
+2024-06-17 21:59:03,025 - opencart framework -INFO - Browser is launched and url
+2024-06-17 21:59:05,081 - opencart framework -INFO - browser closed
+2024-06-17 21:59:07,640 - opencart framework -INFO - Browser is launched and url
+2024-06-17 21:59:08,937 - opencart framework -INFO - navigated to account page
+2024-06-17 21:59:09,832 - opencart framework -INFO - navigated to desktop page
+2024-06-17 21:59:15,738 - opencart framework -INFO - browser closed
+2024-06-17 21:59:18,490 - opencart framework -INFO - Browser is launched and url
+2024-06-17 21:59:25,592 - opencart framework -INFO - Success: You have added iMac to your wish list!
+×
+2024-06-17 21:59:25,790 - opencart framework -INFO - browser closed
+2024-06-17 21:59:28,273 - opencart framework -INFO - Browser is launched and url
+2024-06-17 21:59:30,831 - opencart framework -INFO - browser closed
+2024-06-17 21:59:30,834 - opencart framework -INFO - framework execution stopped
+2024-06-17 22:09:51,952 - opencart framework -INFO - framework execution started
+2024-06-17 22:09:57,701 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:10:05,601 - opencart framework -INFO - browser closed
+2024-06-17 22:10:09,799 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:10:17,966 - opencart framework -INFO - Success: Your account has been successfully updated.
+2024-06-17 22:10:23,157 - opencart framework -INFO - browser closed
+2024-06-17 22:10:26,215 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:10:39,230 - opencart framework -INFO - browser closed
+2024-06-17 22:10:43,111 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:10:45,543 - opencart framework -INFO - browser closed
+2024-06-17 22:10:48,516 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:10:49,791 - opencart framework -INFO - browser closed
+2024-06-17 22:10:52,487 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:10:54,124 - opencart framework -INFO - browser closed
+2024-06-17 22:10:59,166 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:11:01,659 - opencart framework -INFO - browser closed
+2024-06-17 22:11:04,416 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:11:11,970 - opencart framework -INFO - browser closed
+2024-06-17 22:11:14,775 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:11:17,069 - opencart framework -INFO - browser closed
+2024-06-17 22:11:20,189 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:11:32,553 - opencart framework -INFO - browser closed
+2024-06-17 22:11:37,387 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:11:39,821 - opencart framework -INFO - browser closed
+2024-06-17 22:11:44,117 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:11:46,478 - opencart framework -INFO - browser closed
+2024-06-17 22:11:49,626 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:11:51,078 - opencart framework -INFO - navigated to account page
+2024-06-17 22:11:51,948 - opencart framework -INFO - navigated to desktop page
+2024-06-17 22:11:57,734 - opencart framework -INFO - browser closed
+2024-06-17 22:12:00,445 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:12:07,560 - opencart framework -INFO - Success: You have added iMac to your wish list!
+×
+2024-06-17 22:12:07,749 - opencart framework -INFO - browser closed
+2024-06-17 22:12:10,829 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:12:13,497 - opencart framework -INFO - browser closed
+2024-06-17 22:12:13,499 - opencart framework -INFO - framework execution stopped
+2024-06-17 22:19:10,518 - opencart framework -INFO - framework execution started
+2024-06-17 22:19:15,478 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:19:23,380 - opencart framework -INFO - browser closed
+2024-06-17 22:19:27,522 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:19:35,516 - opencart framework -INFO - Success: Your account has been successfully updated.
+2024-06-17 22:19:40,717 - opencart framework -INFO - browser closed
+2024-06-17 22:19:44,114 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:19:46,546 - opencart framework -INFO - browser closed
+2024-06-17 22:19:50,312 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:19:51,473 - opencart framework -INFO - browser closed
+2024-06-17 22:19:55,874 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:19:57,443 - opencart framework -INFO - browser closed
+2024-06-17 22:20:02,372 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:20:05,020 - opencart framework -INFO - browser closed
+2024-06-17 22:20:10,763 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:20:19,112 - opencart framework -INFO - browser closed
+2024-06-17 22:20:25,493 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:20:28,296 - opencart framework -INFO - browser closed
+2024-06-17 22:20:32,415 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:20:34,794 - opencart framework -INFO - browser closed
+2024-06-17 22:20:39,157 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:20:41,522 - opencart framework -INFO - browser closed
+2024-06-17 22:20:45,084 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:20:47,280 - opencart framework -INFO - browser closed
+2024-06-17 22:20:51,523 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:20:52,841 - opencart framework -INFO - navigated to account page
+2024-06-17 22:20:53,997 - opencart framework -INFO - navigated to desktop page
+2024-06-17 22:21:00,270 - opencart framework -INFO - browser closed
+2024-06-17 22:21:02,904 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:21:10,467 - opencart framework -INFO - Success: You have added iMac to your wish list!
+×
+2024-06-17 22:21:10,669 - opencart framework -INFO - browser closed
+2024-06-17 22:21:13,583 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:21:16,162 - opencart framework -INFO - browser closed
+2024-06-17 22:21:16,164 - opencart framework -INFO - framework execution stopped
+2024-06-17 22:23:16,608 - opencart framework -INFO - framework execution started
+2024-06-17 22:23:20,063 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:23:27,898 - opencart framework -INFO - browser closed
+2024-06-17 22:23:30,983 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:23:38,877 - opencart framework -INFO - Success: Your account has been successfully updated.
+2024-06-17 22:23:44,074 - opencart framework -INFO - browser closed
+2024-06-17 22:23:48,860 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:23:51,549 - opencart framework -INFO - browser closed
+2024-06-17 22:23:56,657 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:23:57,851 - opencart framework -INFO - browser closed
+2024-06-17 22:24:02,457 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:24:04,035 - opencart framework -INFO - browser closed
+2024-06-17 22:24:06,526 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:24:09,019 - opencart framework -INFO - browser closed
+2024-06-17 22:24:12,293 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:24:19,807 - opencart framework -INFO - browser closed
+2024-06-17 22:24:23,823 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:24:26,868 - opencart framework -INFO - browser closed
+2024-06-17 22:24:31,575 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:24:33,822 - opencart framework -INFO - browser closed
+2024-06-17 22:24:38,001 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:24:40,379 - opencart framework -INFO - browser closed
+2024-06-17 22:24:44,423 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:24:46,632 - opencart framework -INFO - browser closed
+2024-06-17 22:24:51,617 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:24:52,937 - opencart framework -INFO - navigated to account page
+2024-06-17 22:24:54,073 - opencart framework -INFO - navigated to desktop page
+2024-06-17 22:24:59,749 - opencart framework -INFO - browser closed
+2024-06-17 22:25:02,933 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:25:10,039 - opencart framework -INFO - Success: You have added iMac to your wish list!
+×
+2024-06-17 22:25:10,230 - opencart framework -INFO - browser closed
+2024-06-17 22:25:13,599 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:25:16,078 - opencart framework -INFO - browser closed
+2024-06-17 22:25:16,080 - opencart framework -INFO - framework execution stopped
+2024-06-17 22:26:09,483 - opencart framework -INFO - framework execution started
+2024-06-17 22:26:14,883 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:26:22,577 - opencart framework -INFO - browser closed
+2024-06-17 22:26:25,475 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:26:33,378 - opencart framework -INFO - Success: Your account has been successfully updated.
+2024-06-17 22:26:38,595 - opencart framework -INFO - browser closed
+2024-06-17 22:26:41,673 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:26:43,812 - opencart framework -INFO - browser closed
+2024-06-17 22:26:47,174 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:26:48,345 - opencart framework -INFO - browser closed
+2024-06-17 22:26:51,647 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:26:53,151 - opencart framework -INFO - browser closed
+2024-06-17 22:26:56,552 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:26:59,136 - opencart framework -INFO - browser closed
+2024-06-17 22:27:02,059 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:27:09,914 - opencart framework -INFO - browser closed
+2024-06-17 22:27:13,035 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:27:15,313 - opencart framework -INFO - browser closed
+2024-06-17 22:27:18,719 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:27:21,156 - opencart framework -INFO - browser closed
+2024-06-17 22:27:25,168 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:27:27,464 - opencart framework -INFO - browser closed
+2024-06-17 22:27:30,954 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:27:32,923 - opencart framework -INFO - browser closed
+2024-06-17 22:27:36,371 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:27:37,573 - opencart framework -INFO - navigated to account page
+2024-06-17 22:27:38,863 - opencart framework -INFO - navigated to desktop page
+2024-06-17 22:27:44,591 - opencart framework -INFO - browser closed
+2024-06-17 22:27:47,218 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:27:49,350 - opencart framework -INFO - browser closed
+2024-06-17 22:27:52,066 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:27:54,528 - opencart framework -INFO - browser closed
+2024-06-17 22:27:54,530 - opencart framework -INFO - framework execution stopped
+2024-06-17 22:48:31,714 - opencart framework -INFO - framework execution started
+2024-06-17 22:48:36,669 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:48:44,703 - opencart framework -INFO - browser closed
+2024-06-17 22:48:47,356 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:48:55,348 - opencart framework -INFO - Success: Your account has been successfully updated.
+2024-06-17 22:49:02,086 - opencart framework -INFO - browser closed
+2024-06-17 22:49:04,517 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:49:06,432 - opencart framework -INFO - browser closed
+2024-06-17 22:49:08,910 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:49:10,192 - opencart framework -INFO - browser closed
+2024-06-17 22:49:12,627 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:49:14,165 - opencart framework -INFO - browser closed
+2024-06-17 22:49:16,958 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:49:19,302 - opencart framework -INFO - browser closed
+2024-06-17 22:49:21,831 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:49:29,211 - opencart framework -INFO - browser closed
+2024-06-17 22:49:31,698 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:49:33,847 - opencart framework -INFO - browser closed
+2024-06-17 22:49:36,733 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:49:38,977 - opencart framework -INFO - browser closed
+2024-06-17 22:49:41,500 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:49:43,824 - opencart framework -INFO - browser closed
+2024-06-17 22:49:46,344 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:49:48,329 - opencart framework -INFO - browser closed
+2024-06-17 22:49:50,625 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:49:51,732 - opencart framework -INFO - navigated to account page
+2024-06-17 22:49:52,667 - opencart framework -INFO - navigated to desktop page
+2024-06-17 22:49:58,474 - opencart framework -INFO - browser closed
+2024-06-17 22:50:01,044 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:50:03,460 - opencart framework -INFO - browser closed
+2024-06-17 22:50:06,452 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:50:09,037 - opencart framework -INFO - browser closed
+2024-06-17 22:50:09,037 - opencart framework -INFO - framework execution stopped
+2024-06-17 22:58:18,083 - opencart framework -INFO - framework execution started
+2024-06-17 22:58:21,656 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:58:29,464 - opencart framework -INFO - browser closed
+2024-06-17 22:58:32,001 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:58:39,957 - opencart framework -INFO - Success: Your account has been successfully updated.
+2024-06-17 22:58:45,151 - opencart framework -INFO - browser closed
+2024-06-17 22:58:48,416 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:58:50,607 - opencart framework -INFO - browser closed
+2024-06-17 22:58:56,882 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:58:58,276 - opencart framework -INFO - browser closed
+2024-06-17 22:59:01,359 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:59:02,764 - opencart framework -INFO - browser closed
+2024-06-17 22:59:05,823 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:59:08,362 - opencart framework -INFO - browser closed
+2024-06-17 22:59:12,097 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:59:19,604 - opencart framework -INFO - browser closed
+2024-06-17 22:59:22,125 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:59:24,204 - opencart framework -INFO - browser closed
+2024-06-17 22:59:26,705 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:59:28,662 - opencart framework -INFO - browser closed
+2024-06-17 22:59:31,153 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:59:33,135 - opencart framework -INFO - browser closed
+2024-06-17 22:59:35,691 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:59:37,925 - opencart framework -INFO - browser closed
+2024-06-17 22:59:40,629 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:59:41,768 - opencart framework -INFO - navigated to account page
+2024-06-17 22:59:42,551 - opencart framework -INFO - navigated to desktop page
+2024-06-17 22:59:48,302 - opencart framework -INFO - browser closed
+2024-06-17 22:59:51,431 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:59:53,507 - opencart framework -INFO - browser closed
+2024-06-17 22:59:56,187 - opencart framework -INFO - Browser is launched and url
+2024-06-17 22:59:58,813 - opencart framework -INFO - browser closed
+2024-06-17 22:59:58,813 - opencart framework -INFO - framework execution stopped
+2024-06-18 18:25:26,956 - opencart framework -INFO - framework execution started
+2024-06-18 18:25:39,553 - opencart framework -INFO - framework execution stopped
+2024-06-18 18:27:14,292 - opencart framework -INFO - framework execution started
+2024-06-18 18:30:02,671 - opencart framework -INFO - Browser is launched and url
+2024-06-18 18:32:05,942 - opencart framework -INFO - browser closed
+2024-06-18 18:32:09,495 - opencart framework -INFO - Browser is launched and url
+2024-06-18 18:32:17,486 - opencart framework -INFO - Success: Your account has been successfully updated.
+2024-06-18 18:32:22,648 - opencart framework -INFO - browser closed
+2024-06-18 18:32:26,053 - opencart framework -INFO - Browser is launched and url
+2024-06-18 18:32:30,071 - opencart framework -INFO - browser closed
+2024-06-18 18:32:32,877 - opencart framework -INFO - Browser is launched and url
+2024-06-18 18:32:33,802 - opencart framework -INFO - browser closed
+2024-06-18 18:32:36,592 - opencart framework -INFO - Browser is launched and url
+2024-06-18 18:32:37,845 - opencart framework -INFO - browser closed
+2024-06-18 18:32:40,986 - opencart framework -INFO - Browser is launched and url
+2024-06-18 18:32:43,123 - opencart framework -INFO - browser closed
+2024-06-18 18:32:45,687 - opencart framework -INFO - Browser is launched and url
+2024-06-18 18:32:52,841 - opencart framework -INFO - browser closed
+2024-06-18 18:32:55,859 - opencart framework -INFO - Browser is launched and url
+2024-06-18 18:32:57,586 - opencart framework -INFO - browser closed
+2024-06-18 18:33:00,880 - opencart framework -INFO - Browser is launched and url
+2024-06-18 18:33:02,335 - opencart framework -INFO - browser closed
+2024-06-18 18:33:05,157 - opencart framework -INFO - Browser is launched and url
+2024-06-18 18:33:06,726 - opencart framework -INFO - browser closed
+2024-06-18 18:33:10,096 - opencart framework -INFO - Browser is launched and url
+2024-06-18 18:33:11,571 - opencart framework -INFO - browser closed
+2024-06-18 18:33:15,022 - opencart framework -INFO - Browser is launched and url
+2024-06-18 18:33:16,229 - opencart framework -INFO - navigated to account page
+2024-06-18 18:33:17,450 - opencart framework -INFO - navigated to desktop page
+2024-06-18 18:33:23,044 - opencart framework -INFO - browser closed
+2024-06-18 18:33:25,965 - opencart framework -INFO - Browser is launched and url
+2024-06-18 18:33:27,738 - opencart framework -INFO - browser closed
+2024-06-18 18:33:31,784 - opencart framework -INFO - Browser is launched and url
+2024-06-18 18:33:34,112 - opencart framework -INFO - browser closed
+2024-06-18 18:33:34,112 - opencart framework -INFO - framework execution stopped
+2024-06-19 22:22:14,965 - opencart framework -INFO - framework execution started
+2024-06-19 22:23:37,495 - opencart framework -INFO - Browser is launched and url
+2024-06-19 22:23:49,072 - opencart framework -INFO - browser closed
+2024-06-19 22:23:52,299 - opencart framework -INFO - Browser is launched and url
+2024-06-19 22:23:54,542 - opencart framework -INFO - browser closed
+2024-06-19 22:23:57,645 - opencart framework -INFO - Browser is launched and url
+2024-06-19 22:24:07,842 - opencart framework -INFO - browser closed
+2024-06-19 22:24:12,770 - opencart framework -INFO - Browser is launched and url
+2024-06-19 22:24:22,994 - opencart framework -INFO - browser closed
+2024-06-19 22:24:26,580 - opencart framework -INFO - Browser is launched and url
+2024-06-19 22:24:36,770 - opencart framework -INFO - browser closed
+2024-06-19 22:24:46,920 - opencart framework -INFO - Browser is launched and url
+2024-06-19 22:24:57,162 - opencart framework -INFO - browser closed
+2024-06-19 22:25:01,844 - opencart framework -INFO - Browser is launched and url
+2024-06-19 22:25:12,020 - opencart framework -INFO - browser closed
+2024-06-19 22:25:16,359 - opencart framework -INFO - Browser is launched and url
+2024-06-19 22:25:26,528 - opencart framework -INFO - browser closed
+2024-06-19 22:25:31,339 - opencart framework -INFO - Browser is launched and url
+2024-06-19 22:25:41,585 - opencart framework -INFO - browser closed
+2024-06-19 22:25:45,703 - opencart framework -INFO - Browser is launched and url
+2024-06-19 22:25:55,974 - opencart framework -INFO - browser closed
+2024-06-19 22:25:59,946 - opencart framework -INFO - Browser is launched and url
+2024-06-19 22:26:10,156 - opencart framework -INFO - browser closed
+2024-06-19 22:26:15,917 - opencart framework -INFO - Browser is launched and url
+2024-06-19 22:26:26,170 - opencart framework -INFO - browser closed
+2024-06-19 22:26:30,886 - opencart framework -INFO - Browser is launched and url
+2024-06-19 22:26:41,095 - opencart framework -INFO - browser closed
+2024-06-19 22:26:41,095 - opencart framework -INFO - framework execution stopped
+2024-06-19 22:27:39,142 - opencart framework -INFO - framework execution started
+2024-06-19 22:27:43,996 - opencart framework -INFO - Browser is launched and url
+2024-06-19 22:27:54,373 - opencart framework -INFO - browser closed
+2024-06-19 22:27:57,464 - opencart framework -INFO - Browser is launched and url
+2024-06-19 22:28:07,696 - opencart framework -INFO - browser closed
+2024-06-19 22:28:10,739 - opencart framework -INFO - Browser is launched and url
+2024-06-19 22:28:14,487 - opencart framework -INFO - browser closed
+2024-06-19 22:28:17,854 - opencart framework -INFO - Browser is launched and url
+2024-06-19 22:28:28,076 - opencart framework -INFO - browser closed
+2024-06-19 22:28:37,383 - opencart framework -INFO - Browser is launched and url
+2024-06-19 22:28:47,623 - opencart framework -INFO - browser closed
+2024-06-19 22:28:50,680 - opencart framework -INFO - Browser is launched and url
+2024-06-19 22:29:00,921 - opencart framework -INFO - browser closed
+2024-06-19 22:29:10,035 - opencart framework -INFO - Browser is launched and url
+2024-06-19 22:29:21,911 - opencart framework -INFO - browser closed
+2024-06-19 22:29:25,280 - opencart framework -INFO - Browser is launched and url
+2024-06-19 22:29:35,483 - opencart framework -INFO - browser closed
+2024-06-19 22:29:39,032 - opencart framework -INFO - Browser is launched and url
+2024-06-19 22:29:49,297 - opencart framework -INFO - browser closed
+2024-06-19 22:29:52,879 - opencart framework -INFO - Browser is launched and url
+2024-06-19 22:30:03,095 - opencart framework -INFO - browser closed
+2024-06-19 22:30:06,332 - opencart framework -INFO - Browser is launched and url
+2024-06-19 22:30:16,552 - opencart framework -INFO - browser closed
+2024-06-19 22:30:20,620 - opencart framework -INFO - Browser is launched and url
+2024-06-19 22:30:32,478 - opencart framework -INFO - browser closed
+2024-06-19 22:30:35,409 - opencart framework -INFO - Browser is launched and url
+2024-06-19 22:30:45,597 - opencart framework -INFO - browser closed
+2024-06-19 22:30:49,458 - opencart framework -INFO - Browser is launched and url
+2024-06-19 22:30:59,695 - opencart framework -INFO - browser closed
+2024-06-19 22:30:59,695 - opencart framework -INFO - framework execution stopped
+2024-06-19 23:10:18,349 - opencart framework -INFO - framework execution started
+2024-06-19 23:10:23,511 - opencart framework -INFO - Browser is launched and url
+2024-06-19 23:10:33,732 - opencart framework -INFO - browser closed
+2024-06-19 23:10:38,237 - opencart framework -INFO - Browser is launched and url
+2024-06-19 23:10:48,437 - opencart framework -INFO - browser closed
+2024-06-19 23:10:52,400 - opencart framework -INFO - Browser is launched and url
+2024-06-19 23:10:55,193 - opencart framework -INFO - browser closed
+2024-06-19 23:11:00,154 - opencart framework -INFO - Browser is launched and url
+2024-06-19 23:11:10,388 - opencart framework -INFO - browser closed
+2024-06-19 23:11:14,836 - opencart framework -INFO - Browser is launched and url
+2024-06-19 23:11:25,019 - opencart framework -INFO - browser closed
+2024-06-19 23:11:29,351 - opencart framework -INFO - Browser is launched and url
+2024-06-19 23:11:39,537 - opencart framework -INFO - browser closed
+2024-06-19 23:11:43,489 - opencart framework -INFO - Browser is launched and url
+2024-06-19 23:11:53,713 - opencart framework -INFO - browser closed
+2024-06-19 23:11:57,674 - opencart framework -INFO - Browser is launched and url
+2024-06-19 23:12:07,907 - opencart framework -INFO - browser closed
+2024-06-19 23:12:12,728 - opencart framework -INFO - Browser is launched and url
+2024-06-19 23:12:22,947 - opencart framework -INFO - browser closed
+2024-06-19 23:12:27,021 - opencart framework -INFO - Browser is launched and url
+2024-06-19 23:12:37,368 - opencart framework -INFO - browser closed
+2024-06-19 23:12:41,818 - opencart framework -INFO - Browser is launched and url
+2024-06-19 23:12:52,020 - opencart framework -INFO - browser closed
+2024-06-19 23:12:55,786 - opencart framework -INFO - Browser is launched and url
+2024-06-19 23:13:06,047 - opencart framework -INFO - browser closed
+2024-06-19 23:13:10,454 - opencart framework -INFO - Browser is launched and url
+2024-06-19 23:13:20,703 - opencart framework -INFO - browser closed
+2024-06-19 23:13:29,835 - opencart framework -INFO - Browser is launched and url
+2024-06-19 23:13:40,057 - opencart framework -INFO - browser closed
+2024-06-19 23:13:40,059 - opencart framework -INFO - framework execution stopped
+2024-06-19 23:15:26,232 - opencart framework -INFO - framework execution started
+2024-06-19 23:16:26,830 - opencart framework -INFO - Browser is launched and url
+2024-06-19 23:16:37,105 - opencart framework -INFO - browser closed
+2024-06-19 23:16:43,304 - opencart framework -INFO - Browser is launched and url
+2024-06-19 23:16:54,203 - opencart framework -INFO - browser closed
+2024-06-19 23:16:57,137 - opencart framework -INFO - Browser is launched and url
+2024-06-19 23:16:59,345 - opencart framework -INFO - browser closed
+2024-06-19 23:17:02,341 - opencart framework -INFO - Browser is launched and url
+2024-06-19 23:17:12,537 - opencart framework -INFO - browser closed
+2024-06-19 23:17:15,440 - opencart framework -INFO - Browser is launched and url
+2024-06-19 23:17:25,608 - opencart framework -INFO - browser closed
+2024-06-19 23:17:29,374 - opencart framework -INFO - Browser is launched and url
+2024-06-19 23:17:39,562 - opencart framework -INFO - browser closed
+2024-06-19 23:17:41,954 - opencart framework -INFO - Browser is launched and url
+2024-06-19 23:17:52,157 - opencart framework -INFO - browser closed
+2024-06-19 23:17:55,794 - opencart framework -INFO - Browser is launched and url
+2024-06-19 23:18:05,973 - opencart framework -INFO - browser closed
+2024-06-19 23:18:09,306 - opencart framework -INFO - Browser is launched and url
+2024-06-19 23:18:19,512 - opencart framework -INFO - browser closed
+2024-06-19 23:18:23,487 - opencart framework -INFO - Browser is launched and url
+2024-06-19 23:18:33,721 - opencart framework -INFO - browser closed
+2024-06-19 23:18:40,387 - opencart framework -INFO - Browser is launched and url
+2024-06-19 23:20:24,400 - opencart framework -INFO - browser closed
+2024-06-19 23:20:33,688 - opencart framework -INFO - Browser is launched and url
+2024-06-19 23:20:45,235 - opencart framework -INFO - browser closed
+2024-06-19 23:20:52,041 - opencart framework -INFO - Browser is launched and url
+2024-06-19 23:21:02,210 - opencart framework -INFO - browser closed
+2024-06-19 23:21:02,211 - opencart framework -INFO - framework execution stopped
+2024-06-19 23:23:19,350 - opencart framework -INFO - framework execution started
+2024-06-19 23:23:27,026 - opencart framework -INFO - Browser is launched and url
+2024-06-19 23:23:37,221 - opencart framework -INFO - browser closed
+2024-06-19 23:23:41,415 - opencart framework -INFO - Browser is launched and url
+2024-06-19 23:23:51,625 - opencart framework -INFO - browser closed
+2024-06-19 23:23:54,915 - opencart framework -INFO - Browser is launched and url
+2024-06-19 23:23:57,343 - opencart framework -INFO - browser closed
+2024-06-19 23:24:00,486 - opencart framework -INFO - Browser is launched and url
+2024-06-19 23:24:10,666 - opencart framework -INFO - browser closed
+2024-06-19 23:24:14,788 - opencart framework -INFO - Browser is launched and url
+2024-06-19 23:24:24,972 - opencart framework -INFO - browser closed
+2024-06-19 23:24:28,158 - opencart framework -INFO - Browser is launched and url
+2024-06-19 23:24:38,352 - opencart framework -INFO - browser closed
+2024-06-19 23:24:41,731 - opencart framework -INFO - Browser is launched and url
+2024-06-19 23:24:51,921 - opencart framework -INFO - browser closed
+2024-06-19 23:24:54,981 - opencart framework -INFO - Browser is launched and url
+2024-06-19 23:25:05,126 - opencart framework -INFO - browser closed
+2024-06-19 23:25:09,840 - opencart framework -INFO - Browser is launched and url
+2024-06-19 23:25:20,009 - opencart framework -INFO - browser closed
+2024-06-19 23:25:23,144 - opencart framework -INFO - Browser is launched and url
+2024-06-19 23:25:33,335 - opencart framework -INFO - browser closed
+2024-06-19 23:25:37,337 - opencart framework -INFO - Browser is launched and url
+2024-06-19 23:25:47,512 - opencart framework -INFO - browser closed
+2024-06-19 23:25:51,774 - opencart framework -INFO - Browser is launched and url
+2024-06-19 23:26:01,942 - opencart framework -INFO - browser closed
+2024-06-19 23:26:04,592 - opencart framework -INFO - Browser is launched and url
+2024-06-19 23:26:14,729 - opencart framework -INFO - browser closed
+2024-06-19 23:26:19,351 - opencart framework -INFO - Browser is launched and url
+2024-06-19 23:26:29,520 - opencart framework -INFO - browser closed
+2024-06-19 23:26:29,521 - opencart framework -INFO - framework execution stopped
+2024-06-19 23:28:09,986 - opencart framework -INFO - framework execution started
+2024-06-19 23:28:25,944 - opencart framework -INFO - Browser is launched and url
+2024-06-19 23:28:33,893 - opencart framework -INFO - browser closed
+2024-06-19 23:28:36,584 - opencart framework -INFO - Browser is launched and url
+2024-06-19 23:28:45,249 - opencart framework -INFO - Success: Your account has been successfully updated.
+2024-06-19 23:28:50,389 - opencart framework -INFO - browser closed
+2024-06-19 23:28:57,939 - opencart framework -INFO - Browser is launched and url
+2024-06-19 23:29:03,023 - opencart framework -INFO - browser closed
+2024-06-19 23:29:06,280 - opencart framework -INFO - Browser is launched and url
+2024-06-19 23:29:07,238 - opencart framework -INFO - browser closed
+2024-06-19 23:29:11,823 - opencart framework -INFO - Browser is launched and url
+2024-06-19 23:29:14,048 - opencart framework -INFO - browser closed
+2024-06-19 23:29:20,220 - opencart framework -INFO - Browser is launched and url
+2024-06-19 23:29:23,265 - opencart framework -INFO - browser closed
+2024-06-19 23:29:29,563 - opencart framework -INFO - Browser is launched and url
+2024-06-19 23:29:39,340 - opencart framework -INFO - browser closed
+2024-06-19 23:29:43,162 - opencart framework -INFO - Browser is launched and url
+2024-06-19 23:29:45,936 - opencart framework -INFO - browser closed
+2024-06-19 23:29:50,590 - opencart framework -INFO - Browser is launched and url
+2024-06-19 23:29:53,098 - opencart framework -INFO - browser closed
+2024-06-19 23:29:57,970 - opencart framework -INFO - Browser is launched and url
+2024-06-19 23:30:03,061 - opencart framework -INFO - browser closed
+2024-06-19 23:30:09,598 - opencart framework -INFO - Browser is launched and url
+2024-06-19 23:30:11,801 - opencart framework -INFO - browser closed
+2024-06-19 23:30:15,423 - opencart framework -INFO - Browser is launched and url
+2024-06-19 23:30:16,788 - opencart framework -INFO - navigated to account page
+2024-06-19 23:30:17,792 - opencart framework -INFO - navigated to desktop page
+2024-06-19 23:30:23,531 - opencart framework -INFO - browser closed
+2024-06-19 23:30:27,395 - opencart framework -INFO - Browser is launched and url
+2024-06-19 23:30:29,833 - opencart framework -INFO - browser closed
+2024-06-19 23:30:33,900 - opencart framework -INFO - Browser is launched and url
+2024-06-19 23:30:39,626 - opencart framework -INFO - browser closed
+2024-06-19 23:30:39,626 - opencart framework -INFO - framework execution stopped
+2024-06-19 23:32:06,401 - opencart framework -INFO - framework execution started
+2024-06-19 23:32:11,268 - opencart framework -INFO - Browser is launched and url
+2024-06-19 23:32:19,756 - opencart framework -INFO - browser closed
+2024-06-19 23:32:23,990 - opencart framework -INFO - Browser is launched and url
+2024-06-19 23:32:32,518 - opencart framework -INFO - Success: Your account has been successfully updated.
+2024-06-19 23:32:37,653 - opencart framework -INFO - browser closed
+2024-06-19 23:32:41,825 - opencart framework -INFO - Browser is launched and url
+2024-06-19 23:32:45,697 - opencart framework -INFO - browser closed
+2024-06-19 23:32:52,159 - opencart framework -INFO - Browser is launched and url
+2024-06-19 23:32:53,319 - opencart framework -INFO - browser closed
+2024-06-19 23:32:57,700 - opencart framework -INFO - Browser is launched and url
+2024-06-19 23:32:59,436 - opencart framework -INFO - browser closed
+2024-06-19 23:33:02,038 - opencart framework -INFO - Browser is launched and url
+2024-06-19 23:33:05,230 - opencart framework -INFO - browser closed
+2024-06-19 23:33:08,493 - opencart framework -INFO - Browser is launched and url
+2024-06-19 23:33:16,579 - opencart framework -INFO - browser closed
+2024-06-19 23:33:20,480 - opencart framework -INFO - Browser is launched and url
+2024-06-19 23:33:22,571 - opencart framework -INFO - browser closed
+2024-06-19 23:33:28,871 - opencart framework -INFO - Browser is launched and url
+2024-06-19 23:33:30,873 - opencart framework -INFO - browser closed
+2024-06-19 23:33:37,857 - opencart framework -INFO - Browser is launched and url
+2024-06-19 23:33:39,546 - opencart framework -INFO - browser closed
+2024-06-19 23:33:41,852 - opencart framework -INFO - Browser is launched and url
+2024-06-19 23:33:43,636 - opencart framework -INFO - browser closed
+2024-06-19 23:33:47,135 - opencart framework -INFO - Browser is launched and url
+2024-06-19 23:33:52,036 - opencart framework -INFO - navigated to account page
+2024-06-19 23:33:53,785 - opencart framework -INFO - navigated to desktop page
+2024-06-19 23:33:59,717 - opencart framework -INFO - browser closed
+2024-06-19 23:34:06,356 - opencart framework -INFO - Browser is launched and url
+2024-06-19 23:34:09,093 - opencart framework -INFO - browser closed
+2024-06-19 23:34:12,356 - opencart framework -INFO - Browser is launched and url
+2024-06-19 23:34:14,950 - opencart framework -INFO - browser closed
+2024-06-19 23:34:14,950 - opencart framework -INFO - framework execution stopped
+2024-06-20 10:13:07,975 - opencart framework -INFO - framework execution started
+2024-06-20 10:13:13,913 - opencart framework -INFO - Browser is launched and url
+2024-06-20 10:13:25,510 - opencart framework -INFO - browser closed
+2024-06-20 10:13:28,676 - opencart framework -INFO - Browser is launched and url
+2024-06-20 10:13:38,866 - opencart framework -INFO - browser closed
+2024-06-20 10:13:41,425 - opencart framework -INFO - Browser is launched and url
+2024-06-20 10:13:43,411 - opencart framework -INFO - browser closed
+2024-06-20 10:13:46,033 - opencart framework -INFO - Browser is launched and url
+2024-06-20 10:13:56,278 - opencart framework -INFO - browser closed
+2024-06-20 10:13:58,930 - opencart framework -INFO - Browser is launched and url
+2024-06-20 10:14:09,130 - opencart framework -INFO - browser closed
+2024-06-20 10:14:17,591 - opencart framework -INFO - Browser is launched and url
+2024-06-20 10:14:27,798 - opencart framework -INFO - browser closed
+2024-06-20 10:14:30,439 - opencart framework -INFO - Browser is launched and url
+2024-06-20 10:14:40,628 - opencart framework -INFO - browser closed
+2024-06-20 10:14:43,336 - opencart framework -INFO - Browser is launched and url
+2024-06-20 10:14:53,542 - opencart framework -INFO - browser closed
+2024-06-20 10:14:56,198 - opencart framework -INFO - Browser is launched and url
+2024-06-20 10:15:06,374 - opencart framework -INFO - browser closed
+2024-06-20 10:15:09,073 - opencart framework -INFO - Browser is launched and url
+2024-06-20 10:15:19,305 - opencart framework -INFO - browser closed
+2024-06-20 10:15:21,842 - opencart framework -INFO - Browser is launched and url
+2024-06-20 10:15:32,028 - opencart framework -INFO - browser closed
+2024-06-20 10:15:34,835 - opencart framework -INFO - Browser is launched and url
+2024-06-20 10:15:45,026 - opencart framework -INFO - browser closed
+2024-06-20 10:15:47,614 - opencart framework -INFO - Browser is launched and url
+2024-06-20 10:15:57,809 - opencart framework -INFO - browser closed
+2024-06-20 10:16:00,325 - opencart framework -INFO - Browser is launched and url
+2024-06-20 10:16:10,548 - opencart framework -INFO - browser closed
+2024-06-20 10:16:10,548 - opencart framework -INFO - framework execution stopped
+2024-06-20 10:36:02,554 - opencart framework -INFO - framework execution started
+2024-06-20 10:36:14,894 - opencart framework -INFO - Browser is launched and url
+2024-06-20 10:36:25,157 - opencart framework -INFO - browser closed
+2024-06-20 10:36:27,664 - opencart framework -INFO - Browser is launched and url
+2024-06-20 10:36:37,838 - opencart framework -INFO - browser closed
+2024-06-20 10:36:40,421 - opencart framework -INFO - Browser is launched and url
+2024-06-20 10:36:42,369 - opencart framework -INFO - browser closed
+2024-06-20 10:36:44,855 - opencart framework -INFO - Browser is launched and url
+2024-06-20 10:36:55,063 - opencart framework -INFO - browser closed
+2024-06-20 10:37:03,685 - opencart framework -INFO - Browser is launched and url
+2024-06-20 10:37:13,930 - opencart framework -INFO - browser closed
+2024-06-20 10:37:16,187 - opencart framework -INFO - Browser is launched and url
+2024-06-20 10:37:26,366 - opencart framework -INFO - browser closed
+2024-06-20 10:37:29,039 - opencart framework -INFO - Browser is launched and url
+2024-06-20 10:37:39,263 - opencart framework -INFO - browser closed
+2024-06-20 10:37:41,843 - opencart framework -INFO - Browser is launched and url
+2024-06-20 10:37:52,020 - opencart framework -INFO - browser closed
+2024-06-20 10:37:54,535 - opencart framework -INFO - Browser is launched and url
+2024-06-20 10:38:04,723 - opencart framework -INFO - browser closed
+2024-06-20 10:38:12,298 - opencart framework -INFO - Browser is launched and url
+2024-06-20 10:38:22,517 - opencart framework -INFO - browser closed
+2024-06-20 10:38:25,065 - opencart framework -INFO - Browser is launched and url
+2024-06-20 10:38:35,281 - opencart framework -INFO - browser closed
+2024-06-20 10:38:37,664 - opencart framework -INFO - Browser is launched and url
+2024-06-20 10:38:47,869 - opencart framework -INFO - browser closed
+2024-06-20 10:38:50,394 - opencart framework -INFO - Browser is launched and url
+2024-06-20 10:39:00,590 - opencart framework -INFO - browser closed
+2024-06-20 10:39:03,150 - opencart framework -INFO - Browser is launched and url
+2024-06-20 10:39:13,316 - opencart framework -INFO - browser closed
+2024-06-20 10:39:13,316 - opencart framework -INFO - framework execution stopped

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="1" name="Failed suite [Surefire suite]" verbose="0">
+  <test thread-count="1" name="Surefire test(failed)" verbose="0">
+    <classes>
+      <class name="com.opencart.testlayer.RegisterTest">
+        <methods>
+          <include name="TearDown"/>
+          <include name="verifyregisterpasswordandconfirmpassword"/>
+          <include name="verifyregisteraccountwithexistingcredentialls"/>
+          <include name="end"/>
+          <include name="verifyregisterpasswordandconfirmpasswordwithsubscribeoption"/>
+          <include name="SetUp"/>
+          <include name="verifyregisteraccountwithvalidcredentials"/>
+          <include name="start"/>
+        </methods>
+      </class> <!-- com.opencart.testlayer.RegisterTest -->
+      <class name="com.opencart.testlayer.LogoutTest">
+        <methods>
+          <include name="TearDown"/>
+          <include name="end"/>
+          <include name="verifylogouttest"/>
+          <include name="SetUp"/>
+          <include name="verifylogouttestwithlogoutoptionfromright"/>
+          <include name="start"/>
+        </methods>
+      </class> <!-- com.opencart.testlayer.LogoutTest -->
+      <class name="com.opencart.testlayer.AddToCartTest">
+        <methods>
+          <include name="TearDown"/>
+          <include name="verifyaddtocartwithexhistingproduct"/>
+          <include name="end"/>
+          <include name="SetUp"/>
+          <include name="start"/>
+        </methods>
+      </class> <!-- com.opencart.testlayer.AddToCartTest -->
+      <class name="com.opencart.testlayer.LoginTest">
+        <methods>
+          <include name="verifylogintestwithvalidcredentials"/>
+          <include name="TearDown"/>
+          <include name="end"/>
+          <include name="verifylogintestwithinvalidcredentials"/>
+          <include name="SetUp"/>
+          <include name="start"/>
+        </methods>
+      </class> <!-- com.opencart.testlayer.LoginTest -->
+      <class name="com.opencart.testlayer.WhishListTest">
+        <methods>
+          <include name="verifywishlistwithsearchcriteria"/>
+          <include name="TearDown"/>
+          <include name="verifywhishlistfunctionalitywithdesktopoption"/>
+          <include name="verifywhishlistfunctionalitywithexhistingproduct"/>
+          <include name="end"/>
+          <include name="SetUp"/>
+          <include name="start"/>
+        </methods>
+      </class> <!-- com.opencart.testlayer.WhishListTest -->
+      <class name="com.opencart.testlayer.AffilateFunctionalityTest">
+        <methods>
+          <include name="TearDown"/>
+          <include name="verifyaffilateaccountfunctionality"/>
+          <include name="end"/>
+          <include name="SetUp"/>
+          <include name="start"/>
+        </methods>
+      </class> <!-- com.opencart.testlayer.AffilateFunctionalityTest -->
+    </classes>
+  </test> <!-- Surefire test(failed) -->
+</suite> <!-- Failed suite [Surefire suite] -->
